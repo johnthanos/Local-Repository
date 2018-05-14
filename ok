@@ -1,0 +1,26 @@
+[33mcommit a7e49d5b37ecd0b82300dfbca2ba00b78139aff2[m
+Author: John Thanos <jphn.thanos@gmail.com>
+Date:   Mon May 14 14:29:48 2018 +0300
+
+    Updated changes from test
+
+[33mcommit 74c1bf48048005c1e49383fec0f3cbf831291fbb[m
+Merge: 41fe4c3 408b6f8
+Author: johnthanos <39191669+johnthanos@users.noreply.github.com>
+Date:   Mon May 14 11:54:42 2018 +0300
+
+    Merge pull request #1 from johnthanos/Put-Name
+    
+    Update gthanos.txt
+
+[33mcommit 408b6f8748ecf1be3aee31d61011ffa13ad04424[m
+Author: johnthanos <39191669+johnthanos@users.noreply.github.com>
+Date:   Mon May 14 11:53:40 2018 +0300
+
+    Update gthanos.txt
+
+[33mcommit 41fe4c308fa51da74adda56b387534b4612fe67e[m
+Author: John Thanos <jphn.thanos@gmail.com>
+Date:   Mon May 14 11:38:06 2018 +0300
+
+     I added gthanos.txt to my repo
